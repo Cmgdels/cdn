@@ -1,0 +1,14 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: Tianli 
+      link: https://tianli-blog.club
+      avatar: https://img1.tianli0.top/logo.png
+      descr: 惟其不可能，所以才相信。
+    2:
+      name: 
+      link: 
+      avatar: 
+      descr: 
+
